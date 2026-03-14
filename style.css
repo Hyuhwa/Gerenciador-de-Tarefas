@@ -1,0 +1,142 @@
+/* Reset */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Fundo moderno */
+body{
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: linear-gradient(135deg,#667eea,#764ba2);
+}
+
+/* Container principal */
+.bodytaf{
+    width:420px;
+    padding:30px;
+    border-radius:20px;
+
+    background: rgba(255,255,255,0.15);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+
+    box-shadow:0 15px 35px rgba(0,0,0,0.2);
+}
+
+/* Título */
+h2{
+    text-align:center;
+    margin-bottom:20px;
+    color:white;
+    font-weight:600;
+    letter-spacing:1px;
+}
+
+/* Label */
+label{
+    color:white;
+    font-size:14px;
+    display:block;
+    margin-bottom:6px;
+}
+
+/* Input */
+.Put{
+    width:100%;
+    padding:12px;
+    border-radius:10px;
+    border:none;
+    outline:none;
+    margin-bottom:15px;
+
+    background:rgba(255,255,255,0.9);
+    transition:0.3s;
+}
+
+/* efeito no input */
+.Put:focus{
+    box-shadow:0 0 0 2px #8f94fb;
+}
+
+/* Botão */
+.botadd{
+    width:100%;
+    padding:12px;
+    border:none;
+    border-radius:10px;
+
+    background:linear-gradient(135deg,#8f94fb,#4e54c8);
+    color:white;
+    font-weight:bold;
+    cursor:pointer;
+
+    transition:0.3s;
+}
+
+/* Hover botão */
+.botadd:hover{
+    transform:translateY(-2px);
+    box-shadow:0 8px 20px rgba(0,0,0,0.2);
+}
+
+/* Lista */
+.AddTaf{
+    margin-top:20px;
+    list-style:none;
+}
+
+/* Item da lista */
+.AddTaf li{
+    background:white;
+    padding:12px 15px;
+    border-radius:10px;
+    margin-bottom:10px;
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    box-shadow:0 5px 10px rgba(0,0,0,0.1);
+    animation:fadeIn 0.4s ease;
+}
+
+/* animação */
+@keyframes fadeIn{
+    from{
+        opacity:0;
+        transform:translateY(10px);
+    }
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+/* Botão de deletar */
+.botdel{
+    background: linear-gradient(135deg,#ff4b5c,#ff1e40);
+    color:white;
+    border:none;
+    padding:6px 10px;
+    border-radius:8px;
+    cursor:pointer;
+    font-size:12px;
+    font-weight:bold;
+    transition:0.3s;
+}
+
+/* Hover */
+.botdel:hover{
+    transform:scale(1.1);
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Clique */
+.botdel:active{
+    transform:scale(0.95);
+}
