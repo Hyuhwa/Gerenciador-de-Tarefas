@@ -17,7 +17,6 @@ Você pode visualizar o projeto rodando aqui:
 ## ✨ Funcionalidades
 
 * ➕ Adicionar novas tarefas
-* ✅ Marcar tarefas como concluídas
 * ❌ Remover tarefas da lista
 * 📋 Interface simples e intuitiva
 
