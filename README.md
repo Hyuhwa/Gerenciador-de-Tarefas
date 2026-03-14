@@ -1,7 +1,7 @@
 # 📋 Gerenciador de Tarefas (To-Do List)
 
 Uma aplicação web simples para **criação e gerenciamento de tarefas**, desenvolvida utilizando **HTML, CSS e JavaScript**.
-O projeto permite adicionar, visualizar, marcar como concluídas e remover tarefas de forma prática e organizada.
+O projeto permite adicionar, visualizar e remover tarefas de forma prática e organizada.
 
 ## 🚀 Demonstração
 
