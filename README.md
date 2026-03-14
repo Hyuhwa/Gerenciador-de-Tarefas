@@ -8,10 +8,6 @@ O projeto permite adicionar, visualizar, marcar como concluídas e remover taref
 Você pode visualizar o projeto rodando aqui:
 🔗 https://seu-usuario.github.io/nome-do-repositorio
 
-## 📸 Preview
-
-<img width="600" alt="preview do projeto" src="https://via.placeholder.com/600x300.png?text=Preview+do+Projeto">
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5** — Estrutura da aplicação
@@ -40,13 +36,13 @@ Você pode visualizar o projeto rodando aqui:
 1. Clone o repositório
 
 ```
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/hyuhwa/gerenciador-de-tarefas.git
 ```
 
 2. Entre na pasta do projeto
 
 ```
-cd nome-do-repositorio
+cd gerenciador
 ```
 
 3. Abra o arquivo **index.html** no navegador.
