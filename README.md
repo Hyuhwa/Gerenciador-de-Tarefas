@@ -6,7 +6,7 @@ O projeto permite adicionar, visualizar, marcar como concluídas e remover taref
 ## 🚀 Demonstração
 
 Você pode visualizar o projeto rodando aqui:
-🔗 https://seu-usuario.github.io/nome-do-repositorio
+🔗 https://hyuhwa.github.io/Gerenciador-de-Tarefas/
 
 ## 🛠️ Tecnologias Utilizadas
 
