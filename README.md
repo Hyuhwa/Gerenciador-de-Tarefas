@@ -1,27 +1,65 @@
-📋 Gerenciador de Tarefas
+# 📋 Gerenciador de Tarefas (To-Do List)
 
-Este projeto é uma aplicação web simples de gerenciamento de tarefas (To-Do List) desenvolvida utilizando HTML, CSS e JavaScript. A aplicação permite que os usuários adicionem, visualizem, marquem como concluídas e removam tarefas de forma prática e organizada.
+Uma aplicação web simples para **criação e gerenciamento de tarefas**, desenvolvida utilizando **HTML, CSS e JavaScript**.
+O projeto permite adicionar, visualizar, marcar como concluídas e remover tarefas de forma prática e organizada.
 
-O objetivo do projeto é praticar conceitos fundamentais de desenvolvimento front-end, incluindo estruturação de páginas com HTML, estilização com CSS e manipulação do DOM com JavaScript.
+## 🚀 Demonstração
 
-🚀 Funcionalidades
+Você pode visualizar o projeto rodando aqui:
+🔗 https://seu-usuario.github.io/nome-do-repositorio
 
-Adicionar novas tarefas
+## 📸 Preview
 
-Marcar tarefas como concluídas
+<img width="600" alt="preview do projeto" src="https://via.placeholder.com/600x300.png?text=Preview+do+Projeto">
 
-Remover tarefas da lista
+## 🛠️ Tecnologias Utilizadas
 
-Interface simples e intuitiva
+* **HTML5** — Estrutura da aplicação
+* **CSS3** — Estilização e layout
+* **JavaScript** — Lógica e interatividade
 
-🛠️ Tecnologias Utilizadas
+## ✨ Funcionalidades
 
-HTML5 – estrutura da aplicação
+* ➕ Adicionar novas tarefas
+* ✅ Marcar tarefas como concluídas
+* ❌ Remover tarefas da lista
+* 📋 Interface simples e intuitiva
 
-CSS3 – estilização e layout
+## 📂 Estrutura do Projeto
 
-JavaScript – lógica e interatividade
+```
+📦 gerenciador-de-tarefas
+ ┣ 📜 index.html
+ ┣ 📜 style.css
+ ┣ 📜 script.js
+ ┗ 📜 README.md
+```
 
-🎯 Objetivo do Projeto
+## ▶️ Como Executar o Projeto
 
-Este projeto foi desenvolvido com o objetivo de praticar programação web, reforçando conceitos de manipulação de elementos da página, eventos e organização de código no front-end.
+1. Clone o repositório
+
+```
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+2. Entre na pasta do projeto
+
+```
+cd nome-do-repositorio
+```
+
+3. Abra o arquivo **index.html** no navegador.
+
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido com o objetivo de **praticar desenvolvimento front-end**, incluindo:
+
+* Manipulação do **DOM**
+* Uso de **eventos em JavaScript**
+* Organização de código em aplicações web simples
+
+## 📄 Licença
+
+Este projeto está sob a licença **MIT**.
+Sinta-se livre para usar e modificar.
