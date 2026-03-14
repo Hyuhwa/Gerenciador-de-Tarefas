@@ -36,7 +36,7 @@ Você pode visualizar o projeto rodando aqui:
 1. Clone o repositório
 
 ```
-git clone https://github.com/hyuhwa/gerenciador-de-tarefas.git
+git clone https://github.com/Hyuhwa/Gerenciador-de-Tarefas.git
 ```
 
 2. Entre na pasta do projeto
