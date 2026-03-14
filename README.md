@@ -54,8 +54,3 @@ Este projeto foi desenvolvido com o objetivo de **praticar desenvolvimento front
 * Manipulação do **DOM**
 * Uso de **eventos em JavaScript**
 * Organização de código em aplicações web simples
-
-## 📄 Licença
-
-Este projeto está sob a licença **MIT**.
-Sinta-se livre para usar e modificar.
